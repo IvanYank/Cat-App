@@ -1,0 +1,15 @@
+.button {
+  outline: none;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 5px;
+  border: 1px solid grey;
+  background-color: #58b8ff;
+  transition-duration: 0.3s;
+  cursor: pointer;
+
+  &:disabled {
+    background-color: #b1deff;
+    cursor: auto;
+  }
+}
