@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cat-App/static/css/main.d82c6455.css",
+    "main.js": "/Cat-App/static/js/main.99d09869.js",
+    "index.html": "/Cat-App/index.html",
+    "main.d82c6455.css.map": "/Cat-App/static/css/main.d82c6455.css.map",
+    "main.99d09869.js.map": "/Cat-App/static/js/main.99d09869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d82c6455.css",
+    "static/js/main.99d09869.js"
+  ]
+}
